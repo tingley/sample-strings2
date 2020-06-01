@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="s1">Space Shuttle Discovery</string>
+    <string name="s2">Space Shuttle Discovery (Orbiter Vehicle Designation: OV-103) is one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built.</string>
+<string name="s3">Its first mission, STS-41-D, flew from August 30 to September 5, 1984.</string>
+<string name="s4">Over 27 years of service it launched and landed 39 times, gathering more spaceflights than any other spacecraft to date.</string>
+<string name="s5">Like other shuttles, the shuttle has three main components: the Space Shuttle orbiter, a central fuel tank, and two rocket boosters.</string>
+<string name="s6">Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.</string>
+</resources>
