@@ -6,4 +6,8 @@
 <string name="s4">Over 27 years of service it launched and landed 39 times, gathering more spaceflights than any other spacecraft to date.</string>
 <string name="s5">Like other shuttles, the shuttle has three main components: the Space Shuttle orbiter, a central fuel tank, and two rocket boosters.</string>
 <string name="s6">Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.</string>
+    <string name="s11">Discovery became the third operational orbiter to enter service, preceded by Columbia and Challenger.</string>
+    <string name="s12">It embarked on its last mission, STS-133, on February 24, 2011 and touched down for the final time at Kennedy Space Center on March 9,[7] having spent a cumulative total of almost a full year in space.</string>
+    <string name="s13">Discovery performed both research and International Space Station (ISS) assembly missions, and also carried the Hubble Space Telescope into orbit.</string>
+    <string name="s11">On February 24, 2011, Space Shuttle Discovery launched from Kennedy Space Center's Launch Complex 39-A to begin its final orbital flight.</string>
 </resources>
